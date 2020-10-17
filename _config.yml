@@ -1,4 +1,4 @@
-baseurl: 'jekyll-serif-theme-jayakumar'
+baseurl: '/jekyll-serif-theme-jayakumar'
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
